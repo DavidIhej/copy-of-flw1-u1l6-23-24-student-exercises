@@ -7,10 +7,11 @@ changeTextButton.addEventListener("click", function(){
 
     // 1. Select the nameHeader variable.
     // - With the innerHTML property, update the value to say your name.
-
+  nameHeader.innerHTML = "David"
 
     // 2. Select the message variable.
     // - With the innerHTML property, update the value to say anything you want
+  message.innerHTML = "hello how are you im under the water"
 
 
 
